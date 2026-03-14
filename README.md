@@ -5,7 +5,7 @@ Python project in numerical methods and polynomial approximation using NumPy and
 
 
 
-# Taylor-Approximation-NumPy
+# Se: Taylor-Approximation-NumPy
 
 Utvecklade ett Python-program med NumPy och Matplotlib för att arbeta med talföljder, Taylor-koefficienter, polynomutvärdering och approximation av elementära funktioner. Implementerade även polynommultiplikation, jämförde approximationer med exakta funktionsvärden och visualiserade resultaten grafiskt.
 
